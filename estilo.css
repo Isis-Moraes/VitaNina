@@ -1,0 +1,48 @@
+body {
+    margin:0;
+    background-color: white;
+    color: #21022d;
+}
+
+#corpo{
+    margin: 24px;
+    background-color: #e2d8e7;
+
+}
+        
+#cabecalho{
+     background-color: #21022d;
+    color: white;
+    margin-top: 0;
+    padding: 8px;
+     text-align: center;
+        }
+
+h1 {
+    margin: 0;
+}
+.imagens{
+    height: 150px;
+    width: 150px;
+}
+
+#rodape{
+    background-color: #21022d;
+    color: white;
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+}
+
+#card{
+    padding: 16px;
+}
+
+#vitaminas{
+    margin: 32px;
+}
+
+#sem-lactose{
+    text-align: center;
+    padding: 32px;
+}
